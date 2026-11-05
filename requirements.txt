@@ -1,0 +1,12 @@
+nltk==3.4.5
+torch==1.12.1
+torchvision==0.13.1
+customtkinter==5.2.2
+safetensors==0.3.1
+huggingface-hub==0.16.4
+tokenizers==0.13.3
+transformers==4.30.2
+sentencepiece==0.1.99
+protobuf<4
+wordcloud
+ 
